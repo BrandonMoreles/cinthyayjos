@@ -1,0 +1,12 @@
+.imgG{
+    width: 45vw;
+    margin: 2.5% auto 2.5% auto;
+}
+.galeryDiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.bigF{
+    width: 98vw;
+}

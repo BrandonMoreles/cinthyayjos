@@ -1,0 +1,382 @@
+{
+    "ruelasroberto": {
+        "nombre": "Roberto Ruelas",
+        "tipo": 1
+    },
+    "ruelasluz": {
+        "nombre": "Luz Elena de Ruelas",
+        "tipo": 1
+    },
+    "ruelaspaulina": {
+        "nombre": "Paulina Ruelas",
+        "tipo": 1
+    },
+    "ruelasapolinar": {
+        "nombre": "Aplinar Ruelas",
+        "tipo": 1
+    },
+    "ruelasrosa": {
+        "nombre": "Rosa Maria de Ruelas",
+        "tipo": 1
+    },
+    "ruelasalison": {
+        "nombre": "Eduardo Ruelas",
+        "tipo": 1
+    },
+    "ruelasmelani": {
+        "nombre": "Melani Ruelas",
+        "tipo": 1
+    },
+    "ruelasmiguel": {
+        "nombre": "Miguel Angel Ruelas",
+        "tipo": 1
+    },
+    "ruelasmariana": {
+        "nombre": "Mariana de Ruelas",
+        "tipo": 1
+    },
+    "ruelasximena": {
+        "nombre": "Ximena Ruelas",
+        "tipo": 1
+    },
+    "garciaivan": {
+        "nombre": "Ivan Garcia",
+        "tipo": 1
+    },
+    "garciavanesa": {
+        "nombre": "Vanesa de Garcia",
+        "tipo": 1
+    },
+    "castroabelardo": {
+        "nombre": "Abelardo Castro",
+        "tipo": 1
+    },
+    "castroirene": {
+        "nombre": "Irene de Castro",
+        "tipo": 1
+    },
+    "rangelalfredo": {
+        "nombre": "Alfredo Rangel",
+        "tipo": 1
+    },
+    "rangelalma": {
+        "nombre": "Alma Rosa de Rangel",
+        "tipo": 1
+    },
+    "rangeluriel": {
+        "nombre": "Uriel Rangel",
+        "tipo": 1
+    },
+    "rangellesly": {
+        "nombre": "Lesly Rangel",
+        "tipo": 1
+    },
+    "castilloantonio": {
+        "nombre": "Antonio Castillo",
+        "tipo": 1
+    },
+    "castillomaira": {
+        "nombre": "Maira del Castillo",
+        "tipo": 1
+    },
+    "castilloalan": {
+        "nombre": "Alan Castilo",
+        "tipo": 1
+    },
+    "castillomariel": {
+        "nombre": "Mariel Castillo",
+        "tipo": 1
+    },
+    "ruelasjose": {
+        "nombre": "Jose Alberto Ruelas Arroyo",
+        "tipo": 1
+    },
+    "diasherlinda": {
+        "nombre": "Herlinda Dias",
+        "tipo": 1
+    },
+    "diasalfredo": {
+        "nombre": "Alfredo Dias",
+        "tipo": 1
+    },
+    "pazisidro": {
+        "nombre": "Isidro Paz",
+        "tipo": 1
+    },
+    "pazcarmela": {
+        "nombre": "Carmela de Paz",
+        "tipo": 1
+    },
+    "pazhomero": {
+        "nombre": "Homero Paz",
+        "tipo": 1
+    },
+    "pazgraciela": {
+        "nombre": "Graciela Paz",
+        "tipo": 1
+    },
+    "pazjosue": {
+        "nombre": "Josue Paz",
+        "tipo": 1
+    },
+    "pazgricelda": {
+        "nombre": "Gricelda Paz",
+        "tipo": 1
+    },
+    "ramirezjosmar": {
+        "nombre": "Josmar Ramirez",
+        "tipo": 1
+    },
+    "ramirezperla": {
+        "nombre": "Perla de Ramirez",
+        "tipo": 1
+    },
+    "ramirezricardo": {
+        "nombre": "Ricardo Ramirez",
+        "tipo": 1
+    },
+    "ramirezlisbeth": {
+        "nombre": "Lisbeth de Ramirez",
+        "tipo": 1
+    },
+    "aguilarandres": {
+        "nombre": "Andres Aguilar",
+        "tipo": 1
+    },
+    "reairezjaziel": {
+        "nombre": "Jaziel Ramirez",
+        "tipo": 1
+    },
+    "gutierrezotniel": {
+        "nombre": "Otniel Gutierrez",
+        "tipo": 1
+    },
+    "gutierrezilse": {
+        "nombre": "Ilse de Guitierrez",
+        "tipo": 1
+    },
+    "ortegadaniel": {
+        "nombre": "Daniel Ortega",
+        "tipo": 1
+    },
+    "ortegaelizabeth": {
+        "nombre": "Elizabeth de Ortega",
+        "tipo": 1
+    },
+    "morelesbrandon": {
+        "nombre": "Brandon Moreles Fotografo",
+        "tipo": 1
+    },
+    "morelesbrian": {
+        "nombre": "Brian Moreles y Maggy Chavez",
+        "tipo": 1
+    },
+    "silvasean": {
+        "nombre": "Sean Silva",
+        "tipo": 1
+    },
+    "rodriguezroberto": {
+        "nombre": "Roberto Rodriguez",
+        "tipo": 1
+    },
+    "villanuevaalejandra": {
+        "nombre": "Alejandra Villanueva",
+        "tipo": 1
+    },
+    "barcelojahaziel": {
+        "nombre": "Jahaziel Barcelo",
+        "tipo": 1
+    },
+    "barcelojael": {
+        "nombre": "Jael de Barcelo",
+        "tipo": 1
+    },
+    "cervanteslola": {
+        "nombre": "Lola Cervantes",
+        "tipo": 1
+    },
+    "cervantesluz": {
+        "nombre": "Luz Cervantes",
+        "tipo": 1
+    },
+    "reyessalvador": {
+        "nombre": "Salvador Reyes",
+        "tipo": 1
+    },
+    "reyesana": {
+        "nombre": "Ana Lilia de Reyes",
+        "tipo": 1
+    },
+    "reyesignacio": {
+        "nombre": "Ignacio Reyes",
+        "tipo": 1
+    },
+    "reyestomas": {
+        "nombre": "Tomas Reyes",
+        "tipo": 1
+    },
+    "cervantesjose": {
+        "nombre": "Jose Cervantes",
+        "tipo": 1
+    },
+    "cervanteserika": {
+        "nombre": "Erika de Cervantes",
+        "tipo": 1
+    },
+    "jimenezjorge": {
+        "nombre": "Jorge Jimenez",
+        "tipo": 1
+    },
+    "jimenezbetzaida": {
+        "nombre": "Betzaida de Jimenez",
+        "tipo": 1
+    },
+    "barcelobeto": {
+        "nombre": "Beto Barcelo",
+        "tipo": 1
+    },
+    "barcelolupe": {
+        "nombre": "Lupe de Barcelo",
+        "tipo": 1
+    },
+    "barcelomonse": {
+        "nombre": "Monse Barcelo",
+        "tipo": 1
+    },
+    "barceloabigail": {
+        "nombre": "Abigail Barcelo",
+        "tipo": 1
+    },
+    "rodriguezneftali":{
+        "nombre":"Neftali Rodriguez",
+        "tipo":2
+    },
+    "rodriguezangelica":{
+        "nombre":"Angelica de Rodriguez",
+        "tipo":2
+    },
+    "rodriguezjacob":{
+        "nombre":"Jacob Rodriguez",
+        "tipo":2
+    },
+    "rodriguezmila":{
+        "nombre":"Mila Rodriguez",
+        "tipo":2
+    },
+    "hernandezenrique":{
+        "nombre":"Enrique Hernandez",
+        "tipo":2
+    },
+    "hernandezkerumi":{
+        "nombre":"Kerumi de Hernandez",
+        "tipo":2   
+    },
+    "terriquezjahaziel":{
+        "nombre":"Jahaziel Terriquez",
+        "tipo":2
+    },
+    "terriquezandrea":{
+        "nombre":"Andrea de Terriquez",
+        "tipo":2
+    },
+    "terriquezmegara":{
+        "nombre":"Megara Terriquez",
+        "tipo":2
+    },
+    "terriquezlia":{
+        "nombre":"Lia Terriquez",
+        "tipo":2
+    },
+    "delgadomaribel":{
+        "nombre":"Maribel Delgado",
+        "tipo":2
+    },
+    "suarezsilvia":{
+        "nombre":"Silvia Suarez",
+        "tipo":2
+    },
+    "nuñomarta":{
+        "nombre":"Marta de Nuño",
+        "tipo":2
+    },
+    "nuñonancy":{
+        "nombre":"Nancy Nuño"
+    },
+    "hernandezisabel":{
+        "nombre":"Isabel Hernandez",
+        "tipo":2
+    },
+    "hernandezalejandra":{
+        "nombre":"Alejandra Hernandez",
+        "tipo":2
+    },
+    "hernandezvanesa":{
+        "nombre":"Vanesa Hernandez",
+        "tipo":2
+    },
+    "hernandezyuliana":{
+        "nombre":"Yuliana Hernandez",
+        "tipo":2
+    },
+    "hernandezdonovan":{
+        "nombre":"Donovan Hernandez",
+        "tipo":2
+    },
+    "hernandezjorge":{
+        "nombre":"Jorge Hernandez",
+        "tipo":2
+    },
+    "tabareshector":{
+        "nombre":"Hector Tabares",
+        "tipo":2
+    },
+    "tabaresmarisol":{
+        "nombre":"Marisol de Tabares",
+        "tipo":2
+    },
+    "tabaresnaomi":{
+        "nombre":"Naomi Tabares",
+        "tipo":2
+    },
+    "tabareszulian":{
+        "nombre":"Zulian Tabares",
+        "tipo":2
+    },
+    "torresfrancisco":{
+        "nombre":"Francisco Torres",
+        "tipo":2
+    },
+    "torrestereza":{
+        "nombre":"Tereza de Torres",
+        "tipo":2
+    },
+    "torresisabela":{
+        "nombre":"Isbela Torres",
+        "tipo":2
+    },
+    "perezdavid":{
+        "nombre":"David Perez",
+        "tipo":2
+    },
+    "perezgloria":{
+        "nombre":"Gloria de Perez",
+        "tipo":2
+    },
+    "bañalesjose":{
+        "nombre":"Jose Bañales", 
+        "tipo":2
+    },
+    "bañalesjavier":{
+        "nombre":"Javier Bañales",
+        "tipo":2
+    },
+    "bañalesdania":{
+        "nombre":"Dania Bañales",
+        "tipo":2
+    },
+    "bañalesjuana":{
+        "nombre":"Juana Bañales",
+        "tipo":2
+    }
+    
+}
