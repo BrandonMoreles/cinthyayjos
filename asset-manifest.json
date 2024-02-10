@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/cinthyayjos/static/css/main.7d052276.css",
+    "main.js": "/cinthyayjos/static/js/main.07de0376.js",
+    "static/media/song.mp3": "/cinthyayjos/static/media/song.e7433c6d55473402c5c7.mp3",
+    "static/media/anillo4.jpg": "/cinthyayjos/static/media/anillo4.82468abf13fa236b1c7e.jpg",
+    "static/media/anillo5.jpg": "/cinthyayjos/static/media/anillo5.e5c2121aa5db2d41d5fb.jpg",
+    "static/media/anillo.jpg": "/cinthyayjos/static/media/anillo.b936521167987693f5e3.jpg",
+    "static/media/anillo3.jpg": "/cinthyayjos/static/media/anillo3.9c3acfc0e32c1375c04b.jpg",
+    "static/media/anillo2.jpg": "/cinthyayjos/static/media/anillo2.9e04d0fb8642e4f2b325.jpg",
+    "static/media/anillo1.jpg": "/cinthyayjos/static/media/anillo1.28614581791a4748e804.jpg",
+    "static/media/1.jpg": "/cinthyayjos/static/media/1.af75f0a2340a1913b6c7.jpg",
+    "static/media/2.jpg": "/cinthyayjos/static/media/2.14018ed24885e03f9345.jpg",
+    "static/media/4.jpg": "/cinthyayjos/static/media/4.f4fcb11e00a8dd58574b.jpg",
+    "static/media/6.jpg": "/cinthyayjos/static/media/6.a2f0b1df3cc9122417a2.jpg",
+    "static/media/9.jpg": "/cinthyayjos/static/media/9.d152bef7f0380ceec41d.jpg",
+    "static/media/7.jpg": "/cinthyayjos/static/media/7.e48510c93cda40cda619.jpg",
+    "static/media/3.jpg": "/cinthyayjos/static/media/3.a7128fd1dd6cd716c9aa.jpg",
+    "static/media/8.jpg": "/cinthyayjos/static/media/8.a4fd3999113e3ceceefb.jpg",
+    "static/media/5.jpg": "/cinthyayjos/static/media/5.290c42a50c38fefcc2bc.jpg",
+    "static/media/caveat-latin-700.woff": "/cinthyayjos/static/media/caveat-latin-700.7f09fcce11d6d574b298.woff",
+    "static/media/caveat-latin-400.woff": "/cinthyayjos/static/media/caveat-latin-400.a9fc3372358fcb3b9ad6.woff",
+    "static/media/caveat-latin-700.woff2": "/cinthyayjos/static/media/caveat-latin-700.184aceb9a9730d9367f4.woff2",
+    "static/media/caveat-latin-400.woff2": "/cinthyayjos/static/media/caveat-latin-400.afed5b98ead7985a42b6.woff2",
+    "static/media/anilloF.png": "/cinthyayjos/static/media/anilloF.430cd4597e238fc794d8.png",
+    "static/media/great-vibes-latin-400.woff": "/cinthyayjos/static/media/great-vibes-latin-400.b29cb41d27b49f828732.woff",
+    "static/media/alex-brush-latin-400.woff": "/cinthyayjos/static/media/alex-brush-latin-400.5c45c7c154f83d2e43c4.woff",
+    "static/media/great-vibes-latin-400.woff2": "/cinthyayjos/static/media/great-vibes-latin-400.c42ee39e1c98a6d544f3.woff2",
+    "static/media/alex-brush-latin-400.woff2": "/cinthyayjos/static/media/alex-brush-latin-400.77a374af13c782711964.woff2",
+    "static/media/slick.svg": "/cinthyayjos/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/cinthyayjos/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/cinthyayjos/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/cinthyayjos/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/cinthyayjos/index.html",
+    "main.7d052276.css.map": "/cinthyayjos/static/css/main.7d052276.css.map",
+    "main.07de0376.js.map": "/cinthyayjos/static/js/main.07de0376.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d052276.css",
+    "static/js/main.07de0376.js"
+  ]
+}
