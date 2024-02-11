@@ -11,7 +11,7 @@ function App() {
   return (
   <BrowserRouter basename='/cinthyayjos'>
     <Routes>  
-      <Route path='/*' component={<Home />}/>
+      <Route path='/*' element={<Home />}/>
       </Routes>  
   </BrowserRouter>
   
