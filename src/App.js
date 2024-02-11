@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Home from "./Components/Home.js"
-import {BrowserRouter, Routes, Route} from 'react-router-dom'
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import 'typeface-great-vibes';
 import 'typeface-caveat';
 import 'typeface-alex-brush';
@@ -9,11 +9,11 @@ import 'animate.css';
 
 function App() {
   return (
-  <BrowserRouter basename='/cinthyayjos'>
+  <Router basename='/cinthyayjos'>
     <Routes>  
-      <Route path='/*' element={<Home />}/>
+      <Route path='/*' element={<Home/>}/>
       </Routes>  
-  </BrowserRouter>
+  </Router>
   
         
       
